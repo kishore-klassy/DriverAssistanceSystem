@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+ultralytics
+torch
+torchvision
+pygame
+keras
+tensorflow
+h5py
